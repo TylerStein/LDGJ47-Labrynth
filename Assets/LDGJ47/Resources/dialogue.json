@@ -1,0 +1,20 @@
+{
+  "sequences": [
+    {
+      "id": "intro",
+      "sequence": [
+        "You've been trapped in a demon's labrynth",
+        "Find a way to open the portal and escape",
+        "Use WASD to move",
+        "Press Spacebar to jump"
+      ]
+    },
+    {
+      "id": "end",
+      "sequence": [
+        "The portal is active",
+        "You've made it out!"
+      ]
+    }
+  ]
+}
